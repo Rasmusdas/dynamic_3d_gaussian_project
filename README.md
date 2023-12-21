@@ -13,5 +13,14 @@ Here are also some videos of both the static and dynamic scenes that were create
 
 [Dynamic without background](https://drive.google.com/file/d/1rJ09Zou75WvfTbCBbnYSOj-qAtoCydew/preview)
 
+## Dependencies
+Most of the dependencies can be installed with the included environment file, there are however 1 extra dependency that must be installed separately
+```
+git clone git@github.com:JonathonLuiten/diff-gaussian-rasterization-w-depth.git
+cd diff-gaussian-rasterization-w-depth
+python setup.py install
+pip install .
+```
 
+## Acknowledgements
 The code in this project is mostly a fork from [Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians)

@@ -12,3 +12,6 @@ Here are also some videos of both the static and dynamic scenes that were create
 [Static with dynamic composite](https://drive.google.com/file/d/12Oh_4Zxk8LuQjZoeZhoGy7Y8x5aF4USe/preview)
 
 [Dynamic without background](https://drive.google.com/file/d/1rJ09Zou75WvfTbCBbnYSOj-qAtoCydew/preview)
+
+
+The code in this project is mostly a fork from [Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians)

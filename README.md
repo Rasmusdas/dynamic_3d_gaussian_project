@@ -7,12 +7,8 @@ Here is a [link](https://drive.google.com/drive/folders/1jCHJ-p2XZ9G_YfjK8zg2acv
 
 Here are also some videos of both the static and dynamic scenes that were created.
 
-Double static composite
-<iframe src="https://drive.google.com/file/d/18kkBAwH7lkDuBqbhszvDfKwbNQfevW1K/preview" width="640" height="480" allow="autoplay"></iframe>
+[Double static composite](https://drive.google.com/file/d/18kkBAwH7lkDuBqbhszvDfKwbNQfevW1K/preview)
 
-Static with dynamic composite
-<iframe src="https://drive.google.com/file/d/12Oh_4Zxk8LuQjZoeZhoGy7Y8x5aF4USe/preview" width="640" height="480" allow="autoplay"></iframe>
+[Static with dynamic composite](https://drive.google.com/file/d/12Oh_4Zxk8LuQjZoeZhoGy7Y8x5aF4USe/preview)
 
-
-Dynamic without background
-<iframe src="https://drive.google.com/file/d/1rJ09Zou75WvfTbCBbnYSOj-qAtoCydew/preview" width="640" height="480" allow="autoplay"></iframe>
+[Dynamic without background](https://drive.google.com/file/d/1rJ09Zou75WvfTbCBbnYSOj-qAtoCydew/preview)
